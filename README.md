@@ -1,4 +1,4 @@
 # Akshat
 author - akshat Gupta
 <br>
-This is my firstt Git repositry
+This is my first Git repository
